@@ -34,4 +34,5 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aendersousa&show_icons=true&theme=dark&bg_color=000000)
+
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aendersousa&hide_progress=true&theme=dark&bg_color=000000)
