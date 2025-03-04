@@ -31,8 +31,5 @@
 |Lógica de programação | [Certificado](https://hermes.dio.me/certificates/QXJVVHXI.pdf) 
 
 ---
-
-<div style="display: flex; gap: 10px;">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=aendersousa&show_icons=true&theme=dark&bg_color=000000">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aendersousa&hide_progress=true&theme=dark&bg_color=000000">
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&bg_color=000000)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aendersousa&hide_progress=true&theme=dark&bg_color=000000)
