@@ -1,6 +1,8 @@
 <h1>Sejam bem vindos ao meu GitHub! </h1>
 
-![Gif](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9520tr6z9ze5f2by5r36he9547a1ni0x6chulsj3xuu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Gif"](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b9520tr6z9ze5f2by5r36he9547a1ni0x6chulsj3xuu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+
 ---
 <h3>
 
@@ -31,5 +33,5 @@
 |Lógica de programação | [Certificado](https://hermes.dio.me/certificates/QXJVVHXI.pdf) 
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aendersousa&show_icons=true&theme=dark&bg_color=000000)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aendersousa&hide_progress=true&theme=dark&bg_color=000000)
